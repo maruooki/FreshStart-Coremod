@@ -1,13 +1,13 @@
 [
 {
   "modid": "${modid}",
-  "name": "Example Mod",
+  "name": "Fresh Start Coremod",
   "description": "Example placeholder mod.",
   "version": "${version}",
   "mcversion": "${minecraft_version}",
   "url": "",
   "updateUrl": "",
-  "authorList": ["ExampleDude"],
+  "authorList": ["Maruooki"],
   "credits": "The Forge and FML guys, for making this example",
   "logoFile": "",
   "screenshots": [],
